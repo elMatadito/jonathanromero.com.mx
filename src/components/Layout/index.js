@@ -8,7 +8,7 @@ const Layout = () => {
     <Main>
       <Header />
       <CurrentStack />
-      {/* <Jobs /> */}
+      <Jobs />
     </Main>
   )
 };

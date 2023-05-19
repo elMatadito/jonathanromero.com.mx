@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const StackContainer = styled.div`
-  
+  margin-bottom: 14px;
 `;
 
 export const StackChip = styled.span`

@@ -10,7 +10,13 @@ export const Job = styled.div`
   
   .row{
     display: grid;
-    grid-template-columns: 250px 1fr;
+    grid-template-columns: 1fr;
     margin-top: 4px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .row{
+      grid-template-columns: 250px 1fr;
+    }
   }
 `;
