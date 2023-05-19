@@ -5,6 +5,7 @@ export const HeaderContainer = styled.header`
   display: grid;
   grid-template-columns: 1fr;
   align-items: center;
+  margin-bottom: 35px;
 
   .info{
     grid-row: 2;
