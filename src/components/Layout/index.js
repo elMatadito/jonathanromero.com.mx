@@ -1,4 +1,5 @@
 import CurrentStack from "../CurrentStack";
+import Footer from "../Footer";
 import Header from "../Header";
 import Jobs from "../Jobs";
 import { Main } from "./Layout.styled";
@@ -9,6 +10,7 @@ const Layout = () => {
       <Header />
       <CurrentStack />
       <Jobs />
+      <Footer />
     </Main>
   )
 };
