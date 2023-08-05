@@ -11,6 +11,7 @@ export const Job = styled.div`
     display: grid;
     grid-template-columns: 1fr;
     margin-top: 4px;
+    margin-bottom: 18px;
   }
 
   @media screen and (min-width: 768px) {
