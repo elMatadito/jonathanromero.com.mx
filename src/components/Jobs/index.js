@@ -4,7 +4,7 @@ import { Job } from "./Jobs.styled";
 const Jobs = () => {
   return (
     <>
-      <h2>Where I've Worked</h2>
+      <h2>Where I&apos;ve Worked</h2>
       <Job>
         <h3>CRIMSONGUARD</h3>
         <div className="row">
