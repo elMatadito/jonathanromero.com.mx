@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
         <title>Jonathan Romero Hernandez</title>
         <meta name="description" content="Full Stack Developer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/profile-picture.png" />
       </Head>
       <style jsx global>{`
         :root {
