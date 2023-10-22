@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <HeaderContainer>
+    <HeaderContainer className="card">
       <div className="info">
         <Image src="/profile-picture.png" width={150} height={150} alt="JRH" />
         <h1>Jonathan Romero</h1>

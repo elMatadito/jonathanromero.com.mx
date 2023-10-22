@@ -50,6 +50,7 @@ button {
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(148, 163, 184, 0.1) 0px 1px 0px 0px inset;
   padding: 14px;
   border-radius: 8px;
+  margin-bottom: 14px;
 }
 
 .button,
@@ -70,5 +71,9 @@ button {
     color: #fff;
     background: #465981;
     border-color: #465981;
+  }
+
+  .iconify {
+    margin-bottom: -4px;
   }
 }
