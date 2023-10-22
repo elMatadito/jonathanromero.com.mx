@@ -22,7 +22,7 @@ h1,
 h2,
 h3,
 h4 {
-  color: #fff;
+  color: #67E6B0;
   margin-bottom: 3px;
   ;
 }
@@ -43,4 +43,32 @@ button {
   font-family: var(--montserrat-font);
   border: none;
   cursor: pointer;
+}
+
+.card {
+  background: #1e2738;
+  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(148, 163, 184, 0.1) 0px 1px 0px 0px inset;
+  padding: 14px;
+  border-radius: 8px;
+}
+
+.button,
+button {
+  font-weight: bold;
+  padding: .675rem 1.5rem;
+  font-size: 1rem;
+  outline: none;
+  border-radius: 2rem;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+
+  &.primary {
+    color: #fff;
+    background: #465981;
+    border-color: #465981;
+  }
 }
