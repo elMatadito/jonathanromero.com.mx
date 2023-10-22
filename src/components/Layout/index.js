@@ -8,8 +8,6 @@ const Layout = () => {
   return (
     <Main>
       <Header />
-      <CurrentStack />
-      <Jobs />
       <Footer />
     </Main>
   )

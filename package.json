@@ -10,12 +10,14 @@
   },
   "dependencies": {
     "@iconify/react": "^4.1.0",
-    "eslint": "8.40.0",
-    "eslint-config-next": "13.4.1",
-    "next": "13.4.1",
+    "next": "^13.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.62.1",
     "styled-components": "^6.0.0-rc.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^13.5.6",
+    "sass": "^1.69.4"
   }
 }

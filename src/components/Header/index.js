@@ -28,7 +28,7 @@ const Header = () => {
       </HeaderTop>
       <HeaderContainer>
         <div className="info">
-          <h1>Jonathan Romero Hernandez</h1>
+          <h1>Jonathan Romero</h1>
           <h2>I build things for the web</h2>
           <p>I am passionate about creating innovative solutions with code and infrastructure that can benefit people and businesses. I have more than 9 years of experience in this field.</p>
         </div>
